@@ -1,0 +1,4 @@
+- **[Jan 2026]** Started B.A. program at University of Minnesota, Twin Cities.
+- **[Sep 2024]** Started research collaboration with Prof. Zixuan Cang at North Carolina State University on Generative Optimal Transport for Spatial Transcriptomics.
+- **[Mar 2024]** Published paper on Diff-AMP in *Briefings in Bioinformatics* (JCR Q1).
+- **[Sep 2023]** Started research with Prof. Linlin Zhuo at Wenzhou University of Technology.
