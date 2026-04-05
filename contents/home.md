@@ -15,7 +15,7 @@ Feel free to reach out if you'd like to chat about research or collaboration!
 #### Education
 
 - **B.A. in Computer Science**, University of Minnesota, Twin Cities, USA, Jan. 2026 – Jan. 2027 (Expected)
-- **B.Eng. in Computer Science and Technology**, Wenzhou University of Technology, China, Sept. 2022 – Nov. 2025
+- **B.Eng. in Computer Science and Technology (Transfer)**, Wenzhou University of Technology, China, Sept. 2022 – Nov. 2025
 
 #### Research Experience
 
