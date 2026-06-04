@@ -1,7 +1,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-wrab12-blue?logo=github)](https://github.com/wrab12)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Rui%20Wang-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DEmcaloAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-wan03403@umn.edu-red?logo=gmail&logoColor=white)](mailto:wan03403@umn.edu)
-[![CV](https://img.shields.io/badge/CV-Download-green?logo=adobeacrobatreader&logoColor=white)](static/assets/Rui_Wang_CV.pdf)
+
 
 
 #### About Me
