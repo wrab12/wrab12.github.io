@@ -19,7 +19,7 @@ Feel free to reach out if you'd like to chat about research or collaboration!
 
 #### Research Experience
 - **Vanderbilt University** (May 2026 – Present, Remote)
-  - Advisor: Prof. [Maizie Zhou](https://lab.vanderbilt.edu/maizie-zhou-lab/)
+  - Advisor: Prof. [Maizie Zhou](https://maiziezhoulab.github.io/)
   - Lab: Vanderbilt Computational Biology Lab (VCBL)
   - Topic: Computational Spatial Transcriptomics
 
