@@ -27,7 +27,7 @@ Feel free to reach out if you'd like to chat about research or collaboration!
   - Advisor: Prof. [Zixuan Cang](https://zcang.math.ncsu.edu/)
   - Project: GenOT - Generative Optimal Transport for Spatial Transcriptomics
 
-- **Wenzhou University of Technology** (Sept. 2023 – Nov. 2025)
+- **Wenzhou University of Technology** (Sept. 2022 – Nov. 2025)
   - Advisor: Prof. Linlin Zhuo
   - Projects: Diff-AMP (Generative AI for Antimicrobial Peptide Design), SE-SSP (Transformer-based Peptide Recognition), StableDNAm (DNA Methylation Prediction)
 
