@@ -8,7 +8,7 @@
 
 Hi, I'm **Rui Wang**, an undergraduate student in Computer Science at the **University of Minnesota, Twin Cities**. My research interests broadly lie in **AI for Science (AI4Science)**, with a current focus on **Generative Models** (Diffusion, Optimal Transport), **Geometric Deep Learning**, **Spatial Transcriptomics**, and **Protein/Peptide Design**.
 
-I have published several first-author or co-author papers in journals including *Briefings in Bioinformatics*, *Journal of Chemical Information and Modeling*, and *BMC Genomics*.
+I have published several first-author or co-author papers in journals including *Genome Biology*, *Briefings in Bioinformatics*, *Journal of Chemical Information and Modeling*, and *BMC Genomics*.
 
 Feel free to reach out if you'd like to chat about research or collaboration!
 
