@@ -1,5 +1,5 @@
 ### 2026
-- **R. Wang**, X. Liu, L. Zhuo, Z. Zhou, J. Xu, Q. Zou, X. Fu. (2026). GenOT: Generative optimal transport enables spatiotemporal interpolation and generation in cross-platform spatial transcriptomics. **Genome Biology** (In press).
+- **R. Wang**, X. Liu, L. Zhuo, Z. Zhou, J. Xu, Q. Zou, X. Fu. (2026). GenOT: Generative optimal transport enables spatiotemporal interpolation and generation in cross-platform spatial transcriptomics. **Genome Biology** (accepted).
 
 - Z. Zhou, Z. Li, Y. Xie, L. Zhuo, **R. Wang**, X. Yao, H. Hu, X. Fu. (2026). Intercellular Communication Guides the Prediction of Intracellular Gene Regulatory Relationships. **Journal of Chemical Information and Modeling**. [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5c02558)
 
