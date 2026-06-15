@@ -33,7 +33,7 @@ Feel free to reach out if you'd like to chat about research or collaboration!
 
 #### Academic Service
 
-- **Reviewer** for *Briefings in Bioinformatics* (BIB), *BMC Cancer*
+- **Ad hoc Reviewer** for *Briefings in Bioinformatics* (BIB), *BMC Cancer*
 
 #### Links
 - **Email:** [wan03403@umn.edu](mailto:wan03403@umn.edu)
