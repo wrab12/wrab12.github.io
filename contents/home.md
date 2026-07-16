@@ -18,10 +18,6 @@ Feel free to reach out if you'd like to chat about research or collaboration!
 - **B.Eng. in Computer Science and Technology (Transfer)**, Wenzhou University of Technology, China, Sept. 2022 – Nov. 2025
 
 #### Research Experience
-- **Vanderbilt University** (May 2026 – Present, Remote)
-  - Advisor: Prof. [Maizie Zhou](https://maiziezhoulab.github.io/)
-  - Lab: Vanderbilt Computational Biology Lab (VCBL)
-  - Topic: Computational Spatial Transcriptomics
 
 - **North Carolina State University** (Sept. 2024 – Nov. 2025)
   - Advisor: Prof. [Zixuan Cang](https://zcang.math.ncsu.edu/)
