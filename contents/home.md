@@ -28,7 +28,7 @@ Feel free to reach out if you'd like to chat about research or collaboration!
   - Project: GenOT - Generative Optimal Transport for Spatial Transcriptomics
 
 - **Wenzhou University of Technology** (Sept. 2022 – Nov. 2025)
-  - Advisor: Prof. Linlin Zhuo
+  - Jointly advised by Prof. Linlin Zhuo and Prof. [Quan Zou](http://lab.malab.cn/~zq/en/index.html) from the University of Electronic Science and Technology of China
   - Projects: Diff-AMP (Generative AI for Antimicrobial Peptide Design), SE-SSP (Transformer-based Peptide Recognition), StableDNAm (DNA Methylation Prediction)
 
 #### Academic Service
