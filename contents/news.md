@@ -1,6 +1,10 @@
-- **[Jun 2026]** Our paper *GenOT* (Generative Optimal Transport for cross-platform spatial transcriptomics) was accepted by *Genome Biology*.
-- **[May 2026]** Started remote research in Prof. [Maizie Zhou](https://maiziezhoulab.github.io/)'s lab (Vanderbilt Computational Biology Lab) at Vanderbilt University, on computational spatial transcriptomics.
-- **[Jan 2026]** Started B.A. program at University of Minnesota, Twin Cities.
-- **[Sep 2024]** Started research collaboration with Prof. Zixuan Cang at North Carolina State University on Generative Optimal Transport for Spatial Transcriptomics.
-- **[Mar 2024]** Published paper on Diff-AMP in *Briefings in Bioinformatics*.
-- **[Sep 2022]** Started research with Prof. Linlin Zhuo at Wenzhou University of Technology.
+- **[Sep 2026]** Admitted to the **Computer Science Ph.D. program at the University of Illinois Chicago (UIC)** for Spring 2027 and excited to join Prof. **Hao Chen**'s lab.
+- **[Jun 2026]** Our paper ***GenOT: Generative Optimal Transport Enables Spatiotemporal Interpolation and Generation in Cross-platform Spatial Transcriptomics*** was published in ***Genome Biology***.
+- **[May 2026]** Joined Prof. [**Maizie Zhou**](https://maiziezhoulab.github.io/)'s lab at **Vanderbilt University** as a remote researcher, working on computational spatial transcriptomics.
+- **[Jan 2026]** Our work on intercellular communication and gene regulatory relationship prediction was published in ***Journal of Chemical Information and Modeling***.
+- **[Jan 2026]** Started my B.A. in Computer Science at the **University of Minnesota, Twin Cities**.
+- **[Sep 2024]** Started a research collaboration with Prof. [**Zixuan Cang**](https://zcang.math.ncsu.edu/) at **North Carolina State University** on generative optimal transport for spatial transcriptomics.
+- **[Mar 2024]** Our paper ***Diff-AMP***, an integrated generative framework for antimicrobial peptide design, was published in ***Briefings in Bioinformatics***.
+- **[Dec 2023]** Our paper ***StableDNAm*** on DNA methylation prediction was published in ***BMC Genomics***.
+- **[Aug 2023]** Our paper on plant small secretory peptide recognition (**SE-SSP**) was published online in ***Journal of Chemical Information and Modeling***.
+- **[Sep 2022]** Started research with Prof. **Linlin Zhuo** at **Wenzhou University of Technology**.
