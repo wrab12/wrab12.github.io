@@ -1,4 +1,4 @@
-- **[Sep 2026]** Admitted to the **Computer Science Ph.D. program at the University of Illinois Chicago (UIC)** for Spring 2027 and excited to join Prof. **Hao Chen**'s lab.
+- **[Sep 2026]** Admitted to the **Computer Science Ph.D. program at the University of Illinois Chicago (UIC)** for Spring 2027 and excited to join Prof. [**Hao Chen**](https://haochenhc.github.io/)'s lab.
 - **[Jun 2026]** Our paper ***GenOT: Generative Optimal Transport Enables Spatiotemporal Interpolation and Generation in Cross-platform Spatial Transcriptomics*** was published in ***Genome Biology***.
 - **[May 2026]** Joined Prof. [**Maizie Zhou**](https://maiziezhoulab.github.io/)'s lab at **Vanderbilt University** as a remote researcher, working on computational spatial transcriptomics.
 - **[Jan 2026]** Our work on intercellular communication and gene regulatory relationship prediction was published in ***Journal of Chemical Information and Modeling***.
