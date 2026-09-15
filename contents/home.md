@@ -1,6 +1,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-wrab12-blue?logo=github)](https://github.com/wrab12)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Rui%20Wang-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DEmcaloAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--1318--5038-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1318-5038)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rui%20Wang-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rui-wang-030345289/)
 [![Email](https://img.shields.io/badge/Email-wan03403@umn.edu-red?logo=gmail&logoColor=white)](mailto:wan03403@umn.edu)
 
 
