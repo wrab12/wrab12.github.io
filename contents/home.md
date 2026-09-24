@@ -41,6 +41,4 @@ Feel free to reach out if you'd like to chat about research or collaboration!
 
 - **Ad hoc Reviewer** for *Briefings in Bioinformatics* (BIB), *BMC Cancer*, *IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)*, *Discover Oncology*, *Medical Oncology*, 
 
-#### Links
-- **Email:** [wan03403@umn.edu](mailto:wan03403@umn.edu)
-- **Google Scholar:** [Rui Wang](https://scholar.google.com/citations?user=DEmcaloAAAAJ&hl=en)
+
