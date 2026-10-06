@@ -1,4 +1,8 @@
-Coming Soon
+#### Learning Resources
+
+- **[Awesome Spatial Transcriptomics](https://github.com/wrab12/awesome-spatial-transcriptomics)** [![GitHub stars](https://img.shields.io/github/stars/wrab12/awesome-spatial-transcriptomics?style=social)](https://github.com/wrab12/awesome-spatial-transcriptomics) – A curated list of 340+ tools, foundation models, datasets, tutorials and papers for spatial transcriptomics and the single-cell methods it builds on, ordered the way an analysis goes. Every repository and paper link is checked. A good starting point if you are new to the field.
+
+#### Video Tutorials (Coming Soon)
 
 I plan to create video tutorials explaining the research topics I am currently studying and working on, including optimal transport, generative models, spatial transcriptomics, and AI for science.
 
