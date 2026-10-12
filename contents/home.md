@@ -39,6 +39,6 @@ Feel free to reach out if you'd like to chat about research or collaboration!
 
 #### Academic Service
 
-- **Ad hoc Reviewer** for *Briefings in Bioinformatics* (BIB), *BMC Cancer*, *IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)*, *Discover Oncology*, *Medical Oncology*, 
+- **Ad hoc Reviewer** for *Briefings in Bioinformatics* (BIB), *BMC Cancer*, *IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)*, *scientific reports*, *Discover Oncology*, *Medical Oncology*
 
 
